@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.1'
+gem 'chartkick', '~> 1.2.4'
+gem 'groupdate', '~> 2.1.1'
+gem 'active_median', '~> 0.1.0'
 gem 'mysql2', '~> 0.3.13'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
